@@ -1,10 +1,7 @@
 <h1 align="center">Hey 👋, I'm RAKESH D</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 <img src='https://camo.githubusercontent.com/1f2b99d9ff2aac4d8b4a52382c1ea0696cfca5a05fbcbfba7b722b959fea00d2/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966'</img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-19&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-19" /> </p>
-
-- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
 
 - 📫 How to reach me **rakeshpost86@gmail.com**
 
